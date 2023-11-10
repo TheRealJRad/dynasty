@@ -7,11 +7,6 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Hello</p>
-  <p></p>
-  <p></p>
-  <p></p>
-  <p></p>
   <p></p>
 `;
 
