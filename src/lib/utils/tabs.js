@@ -63,7 +63,7 @@ export const tabs = [
             },
             {
                 icon: 'history_edu',
-                label: 'Constitution',
+                label: 'Charter',
                 dest: '/constitution',
             },
             {
