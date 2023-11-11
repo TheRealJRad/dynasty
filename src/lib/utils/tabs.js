@@ -27,9 +27,9 @@ export const tabs = [
         nest: true,
         children: [
             {
-                icon: 'storage',
-                label: 'Rosters',
-                dest: '/rosters',
+                icon: 'history_edu',
+                label: 'Charter and Dues',
+                dest: '/constitution',
             },
             {
                 icon: 'groups',
@@ -62,9 +62,9 @@ export const tabs = [
                 dest: '/records',
             },
             {
-                icon: 'history_edu',
-                label: 'Charter and Dues',
-                dest: '/constitution',
+            icon: 'storage',
+                label: 'Rosters',
+                dest: '/rosters',
             },
             {
                 icon: 'sports_football',
