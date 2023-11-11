@@ -37,9 +37,9 @@ export const tabs = [
                 dest: '/managers',
             },
             {
-                icon: 'local_fire_department',
-                label: 'Rivalry',
-                dest: '/rivalry',
+                 icon: 'storage',
+                label: 'Rosters',
+                dest: '/rosters',
             },
             {
                 icon: 'leaderboard',
@@ -62,9 +62,9 @@ export const tabs = [
                 dest: '/records',
             },
             {
-            icon: 'storage',
-                label: 'Rosters',
-                dest: '/rosters',
+                icon: 'local_fire_department',
+                label: 'Rivalry',
+                dest: '/rivalry',
             },
             {
                 icon: 'sports_football',
