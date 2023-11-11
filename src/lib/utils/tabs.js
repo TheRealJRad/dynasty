@@ -28,8 +28,7 @@ export const tabs = [
         children: [
             {
                 icon: 'history_edu',
-                label: 'Charter',
-                label: 'Dues',
+                label: 'Charter|Dues',
                 dest: '/constitution',
             },
             {
