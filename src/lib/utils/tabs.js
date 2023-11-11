@@ -29,7 +29,7 @@ export const tabs = [
             {
                 icon: 'history_edu',
                 label: 'Charter',
-                labe: 'Dues',
+                label: 'Dues',
                 dest: '/constitution',
             },
             {
