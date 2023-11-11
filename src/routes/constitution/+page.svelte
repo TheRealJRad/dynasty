@@ -15,7 +15,7 @@
 </script>
 
 <style>
-    .charter {
+    .constitution {
         position: relative;
         z-index: 1;
         width: 92%;
@@ -95,7 +95,8 @@
     }
 </style>
 
-<div class="charter">
+<div class="constitution">
    <iframe width='100%' height='1500' src="https://docs.google.com/document/d/e/2PACX-1vTiShGe9GmMsjYyQ_JzYXfp_htNdf09XBji1Ue4KVg0Vk-UeuL-7A70ieCV99WJG56cfZVWNRrd_ZJn/pub?embedded=true"></iframe>
+   <iframe width='100%' height='1500' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT9Khg8RmrbvsBGk6pPugrhn6SbrYFeMUu35DVukGkwoovVReT3JxlGBlSOZ5r2wD6rGqF2CLHo0prC/pubhtml?widget=true&amp;headers=false"></iframe>
 
 </div>
